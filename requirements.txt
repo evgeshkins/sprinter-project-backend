@@ -1,0 +1,16 @@
+asgiref==3.8.1
+Django==4.2.1
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+decorator==4.4.2
+django-cors-headers==4.3.1
+django-filter==24.2
+djangorestframework==3.15.1
+drf-spectacular==0.27.0
+idna==3.6
+psycopg2==2.9.9
+requests==2.31.0
+tzdata==2024.1
+urllib3==2.2.1
+sqlparse==0.5.0
